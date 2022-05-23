@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Haotian Chai. At this moment, I work at [AntGroup](https://www.antgroup.com/en) as full stack engineer, former [Jike](https://okjike.com/), [Keep](https://www.keepkeep.com/) and [WandouLabs](https://www.wandoujia.com/). 
+I'm Haotian Chai. At this moment, I work at [AntGroup](https://www.antgroup.com/en) as full-stack engineer, former [Jike](https://okjike.com/), [Keep](https://www.keepkeep.com/) and [WandouLabs](https://www.wandoujia.com/). 
 
 [![tiant167's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiant167&theme=dark&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
